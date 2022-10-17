@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Hatlix0
+- 👀 I’m interested in Programming ...
+- 🌱 I’m currently learning Games Development ...
+- 📫 How to reach me Contact Me In Discord {HatlixCodes#9665} ...
+
+<!---
+Hatlix0/Hatlix0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
